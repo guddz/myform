@@ -1,0 +1,19 @@
+[25-Aug-2019 15:52:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/nksuiwal/public_html/myform1/config.php on line 6
+[25-Aug-2019 15:55:26 UTC] PHP Notice:  Undefined index: msg_subject in /home/nksuiwal/public_html/myform1/process.php on line 40
+[25-Aug-2019 16:37:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/nksuiwal/public_html/myform1/process.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nksuiwal/public_html/myform1/process.php on line 17
+[25-Aug-2019 16:37:43 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/nksuiwal/public_html/myform1/process.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nksuiwal/public_html/myform1/process.php on line 17
+[25-Aug-2019 16:39:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/nksuiwal/public_html/myform1/process.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nksuiwal/public_html/myform1/process.php on line 17
+[25-Aug-2019 16:39:55 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/nksuiwal/public_html/myform1/process.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/nksuiwal/public_html/myform1/process.php on line 17
+[25-Aug-2019 16:40:38 UTC] PHP Notice:  Undefined index: msg_subject in /home/nksuiwal/public_html/myform1/process.php on line 40
